@@ -1,10 +1,4 @@
-## Hi there 👋
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" title="sveltik" width="80" height="80" />
-
-                   
-
+## Hi 👋
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v2yv&theme=chartreuse_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=v2yv&theme=chartreuse_dark)
