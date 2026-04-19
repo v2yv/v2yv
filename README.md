@@ -1,5 +1,4 @@
-## Hi 👋
-## My 3D Contribution Graph
+## Hi 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v2yv&theme=chartreuse_dark)
